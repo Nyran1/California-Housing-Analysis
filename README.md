@@ -2,7 +2,7 @@
 
 The project repository consists of the following files and folders:
 
-### housing_data.csv: 
+###### housing_data.csv: 
 This file contains the raw data of the California Housing dataset. It serves as the foundation for our analysis.
 
 housing_analysis.xls: This excel sheet contains the charts and data analysis process. It provides step-by-step explanations of the data exploration, manipulation, and visualization techniques used in the project.
